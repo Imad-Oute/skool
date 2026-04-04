@@ -13,5 +13,7 @@
   "templater-obsidian",
   "calendar",
   "homepage",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "table-editor-obsidian",
+  "obsidian-git"
 ]

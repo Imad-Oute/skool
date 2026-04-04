@@ -6,6 +6,10 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsVideos",
+      "BoBxMap",
+      "BoBxsNotepad",
+      "BoBxlGraphql",
       "BoBxsSchool"
     ],
     "recentlyUsedIconsSize": 5,
@@ -83,8 +87,11 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "02 - Courses": {
+  "08-CTS": "BoBxlGraphql",
+  "04 - NIT": "BoBxsNotepad",
+  "02-Courses": {
     "iconName": "BoBxsSchool",
     "inheritanceIcon": "BoBxsSchool"
-  }
+  },
+  "00-Maps_of_Content": "BoBxMap"
 }

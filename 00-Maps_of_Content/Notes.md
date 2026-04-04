@@ -1,0 +1,51 @@
+- [ ] Just consume all three courses now and extract the systems now, that’s it.;
+- [ ] you need to 
+
+
+Habits Matrix List
+
+| TO ADD                                                                                                         | MUST REMOVE       |
+| -------------------------------------------------------------------------------------------------------------- | ----------------- |
+| meditation                                                                                                     | Social media      |
+| praying + quran                                                                                                | phone consumption |
+| sleep and wake up at the same time                                                                             | videos games      |
+| 12 to 15 hour of work ethic                                                                                    | music + talking   |
+| read books                                                                                                     |                   |
+| gym 3-4 times a week                                                                                           |                   |
+| every month you buy a pack of <br>5-7 books that you read peer month<br>it’s an average of 1 to 3 books a week |                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+- [ ] complete leslions and prepare everything you will need from mentally psychology to project to everything for Monday
+- [ ] 
+| Systems Name | Description | Notes |
+| ------------- | -------------- | -------------- |
+| Software Projects Systems |  | Item1 |
+
+
+- Projects Software Engineering Ecosystems for taking, leading, building and delivering projects, you may here take that elite software egineering courses golbal course.
+- You wanna became elite at all those areas and skill set, just pure deep reasearch and read books and figure out who are the elite first at those domains and then learn from them, consume podcast, tha's it.
+- The core goal is that you read and learn from the elite and extract their systems and framework you will use and then ingest them into your ai agents, for example you can the devlopertoarchitect.com/resources resources and inject to your ai agents to do the work.
+
+
+
+
+
+
+
+
+
+
