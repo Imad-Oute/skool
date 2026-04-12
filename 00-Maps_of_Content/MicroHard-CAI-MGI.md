@@ -1,0 +1,2 @@
+- in MH project you should have a folder for notes, that’s created when installing microhard.
+- update all core skills brand name from cai to microhard

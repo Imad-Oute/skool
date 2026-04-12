@@ -6,11 +6,12 @@
       {
         "id": "9a43d6338dff82f2",
         "type": "split",
+        "dimension": 45.25179856115108,
         "children": [
           {
             "id": "cb7df92d7c29f96d",
             "type": "tabs",
-            "dimension": 49.89669421487603,
+            "dimension": 42.768595041322314,
             "children": [
               {
                 "id": "16a2f0e5184504d5",
@@ -53,14 +54,28 @@
                   "icon": "lucide-file",
                   "title": "#2-Post-Free-Content-Part-I"
                 }
+              },
+              {
+                "id": "f056314e9eaef9b3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MicroHard-CAI-MGI"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "d74273517ed1ace4",
             "type": "tabs",
-            "dimension": 50.103305785123965,
+            "dimension": 57.231404958677686,
             "children": [
               {
                 "id": "4b73fa2cc7d0523a",
@@ -77,6 +92,20 @@
                 }
               },
               {
+                "id": "8f56855436334fc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06 - Daily/20260403.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20260403"
+                }
+              },
+              {
                 "id": "1ac1c61a82d9270b",
                 "type": "leaf",
                 "state": {
@@ -89,8 +118,23 @@
                   "icon": "lucide-file",
                   "title": "02-Core-Four-screenshots"
                 }
+              },
+              {
+                "id": "c6623171d16ac314",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SLM-Ecosystem-Map"
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -98,51 +142,64 @@
       {
         "id": "efc93ffd54af3d53",
         "type": "tabs",
+        "dimension": 54.74820143884892,
         "children": [
           {
-            "id": "5cbe54f6bc5c1226",
+            "id": "1e11d80a7df19479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Courses/100M$ Leads/02-Core-Four.md",
+                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Core-Four"
+              "title": "RA-LeadGen-Ecosystem-Map-v2"
             }
           },
           {
-            "id": "a6258ead053d30e9",
+            "id": "c16071d87f11b6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Courses/100M$ Leads Systems/Books-Chapters/#2 Post Free Content Part II.md",
+                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "#2 Post Free Content Part II"
+              "title": "RA-LeadGen-Ecosystem-Map"
             }
           },
           {
-            "id": "7afdfc6686538838",
+            "id": "95e0ffb0a27779c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05-Client-OS/RA-Project/Ressources/Rolland_Assurances_Strategy_Report.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Rolland_Assurances_Strategy_Report"
+            }
+          },
+          {
+            "id": "9cf0846729bdcc30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Courses/100M$ Leads Systems/Books-Chapters/#4-Run-Paid-Ads-Part-I.md",
+                "file": "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "#4-Run-Paid-Ads-Part-I"
+              "title": "RA-LeadGen-Ecosystem-Map-v2-hardened"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -307,13 +364,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps of Content/Notes.md",
+                "file": "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of RA-LeadGen-Ecosystem-Map-v2-hardened"
             }
           },
           {
@@ -347,7 +404,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -374,25 +431,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b73fa2cc7d0523a",
+  "active": "9cf0846729bdcc30",
   "lastOpenFiles": [
+    "05-Client-OS/RA-Project/output/knowledge/cross-domain-syntheses/lead-gen-urgency-triage-synthesis.md",
+    "05-Client-OS/RA-Project/output/knowledge/cross-domain-syntheses/lead-gen-urgency-triage-synthesis.md.tmp.313052.1776003102518",
+    "05-Client-OS/RA-Project/logs/mgi-system-auditor.log",
+    "05-Client-OS/RA-Project/output/knowledge/audits/ra-leadgen-ecosystem-v2-optimization.md",
+    "05-Client-OS/RA-Project/output/knowledge/audits/ra-leadgen-ecosystem-v2-optimization.md.tmp.313564.1776003071882",
+    "05-Client-OS/RA-Project/output/knowledge/cross-domain-syntheses",
+    "05-Client-OS/RA-Project/output/knowledge/audits",
+    "05-Client-OS/RA-Project/logs/mgi-first-principles-deconstructor.log",
+    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints/RA-LeadGen-client-acquisition-blueprint.md",
+    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints/RA-LeadGen-client-acquisition-blueprint.md.tmp.255403.1776001380219",
+    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints",
+    "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
+    "05-Client-OS/RA-Project/logs/mgi-adversarial-designer.log",
+    "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md",
+    "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md.tmp.255403.1775999636257",
+    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
     "02-Courses/100M$ Leads Systems/Books-Chapters/#2-Post-Free-Content-Part-I.md",
-    "02-Courses/100M$ Leads Systems/Books-Chapters/#4-Run-Paid-Ads-Part-II.md",
-    "02-Courses/100M$ Leads Systems/Books-Chapters/#4-Run-Paid-Ads-Part-I.md",
-    "02-Courses/100M$ Leads Systems/Books-Chapters/#2 Post Free Content Part II.md",
-    "02-Courses/100M$ Leads/02-Core-Four.md",
-    "01 - Projects/Business-Notes-Ideas.md",
-    "06 - Daily/20260403.md",
-    "02-Courses/100M$ Leads/Books Chapters/#2 Post Free Content Part I 1.md",
-    "02-Courses/100M$ Leads/Books Chapters/Untitled.md",
-    "02-Courses/100M$ Leads/01-Start-Here.md",
-    "02-Courses/100M$ Leads Systems",
-    "02-Courses/100M$ Leads Systems/Books-Chapters",
-    "02-Courses/100M$ Leads/02-Core-Four-screenshots.md",
-    "06 - Daily/20260325.md",
     "06 - Daily/20260330.md",
-    "06 - Daily/20260404.md",
-    "02-Courses/100M$ Leads/01-Start-Here-screenshots.md",
+    "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
+    "06 - Daily/20260403.md",
+    "06 - Daily/20260408.md",
+    "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/client_libs/google-ads-python/CONTRIBUTING.md",
+    "05-Client-OS/RA-Project/Ressources/CLICK-TO-CALL-GoogleAds-RollandAssurances.md",
+    "05-Client-OS/RA-Project/Notes/Notes.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/conversions/GEMINI.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/SERVICE_ACCOUNT.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/README_BEFORE_INSTALLATION.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/README.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/GEMINI.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/FAQ.md",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/CONTRIBUTING.md",
+    "08-CTS/01-Projects/MGI/inbox.md",
+    "00-Maps_of_Content/Notes.md",
+    "04-NIT/Placeholder.md",
+    "05-Client-OS/RA-Project/docs/workflow-map.md",
     "99 - Meta/attachments/Pasted image 20260403165048.png",
     "99 - Meta/attachments/Pasted image 20260403164613.png",
     "99 - Meta/attachments/Pasted image 20260403163506.png",
@@ -402,25 +478,6 @@
     "99 - Meta/attachments/Pasted image 20260403160912.png",
     "99 - Meta/attachments/Pasted image 20260403160049.png",
     "99 - Meta/attachments/Pasted image 20260403155613.png",
-    "99 - Meta/attachments/Pasted image 20260403141611.png",
-    "99 - Meta/attachments",
-    "06 - Daily/20260331.md",
-    "04 - NIT/Placeholder.md",
-    "02-Courses/100M$ Leads/00-Notes.md",
-    "02-Courses/100M$ Leads/03-Lead-Getters.md",
-    "restored_notes.md",
-    "01 - Projects/LesLions",
-    "01 - Projects/RollandAssurances",
-    "06 - Daily/20260402.md",
-    "00-Maps_of_Content/Notes.md",
-    "06 - Daily/20260329.md",
-    "06 - Daily/20260327.md",
-    "08-CTS/00-inbox/cts-Ecosystem.md",
-    "08-CTS/01-Projects/MGI/inbox.md",
-    "08-CTS/01-Projects/MGI",
-    "08-CTS/00-inbox/Arch-Linux",
-    "08-CTS/01-Projects",
-    "08-CTS/00-inbox",
-    "08-CTS"
+    "99 - Meta/attachments/Pasted image 20260403141611.png"
   ]
 }

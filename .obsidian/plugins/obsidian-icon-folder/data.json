@@ -90,7 +90,7 @@
   "08-CTS": "BoBxlGraphql",
   "04 - NIT": "BoBxsNotepad",
   "02-Courses": {
-    "iconName": "BoBxsSchool",
+    "iconName": null,
     "inheritanceIcon": "BoBxsSchool"
   },
   "00-Maps_of_Content": "BoBxMap"

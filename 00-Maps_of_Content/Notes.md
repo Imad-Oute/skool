@@ -15,9 +15,9 @@ Habits Matrix List
 | every month you buy a pack of <br>5-7 books that you read peer month<br>it’s an average of 1 to 3 books a week |                   |
 
 
+work on your agency list all services you gonna provide and create all systems  needed and service systems, and specially agency ecosystem how to get, manage, build and deliver services. and a lot of other stuff. 
 
-
-
+copilot  --resume=92d9d434-fd66-4cf7-abf5-f83292ef7775
 
 
 

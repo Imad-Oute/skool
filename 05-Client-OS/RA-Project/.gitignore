@@ -1,0 +1,19 @@
+# Credentials and secrets — NEVER commit
+credentials/
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Engine logs
+logs/*.log
+
+# IDE/OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node
+node_modules/

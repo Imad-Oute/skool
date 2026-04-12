@@ -1,0 +1,7 @@
+phase,phase_name,skill,menu_code,agent,description,trigger_condition,depends_on
+1-attract,Attract,cai-hook-engineer,HE,Aura,Engineer high-CTR hooks and headlines using the 7-Component News Matrix,When creating any content asset — always run before content production,none
+1-attract,Attract,cai-content-architect,CA,Coda,Architect content units using the 5-Category Topic Matrix and Retention Mechanics,When building a content strategy or producing a content piece,cai-hook-engineer
+3-scale,Scale,cai-growth-controller,GC,Felix,Analyze LTGP:CAC ratios and produce a 90-day scaling roadmap,When CAC data is 30+ days old or before any budget increase,cai-content-architect
+4-optimize,Optimize,cai-feedback-loop-tracker,FT,Trace,Run 3-layer performance diagnosis and generate Kill/Keep/Scale directives,Weekly review cycle or when any asset underperforms benchmark,cai-growth-controller
+4-optimize,Optimize,cai-compliance-auditor,AU,Vera,Audit naming schema adherence and Give:Ask ratio balance across all outputs,Before any scaling decision or monthly ecosystem health check,all
+4-optimize,Optimize,cai-ceo-architect,CEO,CEO,Strategic ecosystem review — direction-setting and cross-agent coordination,Quarterly or when pivoting acquisition strategy,all

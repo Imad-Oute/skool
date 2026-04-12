@@ -1,0 +1,6 @@
+- Study and learn more about Google ai assistant github project
+- Execute the SLM system on rolland project, and study the market first.
+- You need to study project management and leadership, you need to task down both of you and set deadlines and task list, you need to have this ecoystem, go first study how the elites do this. you can use mgi here.
+- list down all the tasks and work you have to work on everything, like all tasks and ideas.
+- study and analyze rolland, apply slm and cai and build the full ecosystem and analyze all existing data and a lot of other things.
+- You need to extract all the systems of SLM and RMBC and CAI and compare them to each other study them and analyze them to create the final full combined ecosystem.

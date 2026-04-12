@@ -1,0 +1,6 @@
+ide: claude-code
+configured_date: 2026-04-12T10:24:09.482Z
+last_updated: 2026-04-12T10:24:09.482Z
+configuration:
+  skills_dir: .claude/skills
+  skills_count: 24
