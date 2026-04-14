@@ -4,148 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9a43d6338dff82f2",
-        "type": "split",
-        "dimension": 45.25179856115108,
+        "id": "d74273517ed1ace4",
+        "type": "tabs",
+        "dimension": 48.018923713778825,
         "children": [
           {
-            "id": "cb7df92d7c29f96d",
-            "type": "tabs",
-            "dimension": 42.768595041322314,
-            "children": [
-              {
-                "id": "16a2f0e5184504d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "06 - Daily/20260325.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "20260325"
-                }
+            "id": "8f56855436334fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "f7b8df313ac53060",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "06 - Daily/20260330.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "20260330"
-                }
-              },
-              {
-                "id": "43c654554987f9ee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Courses/100M$ Leads Systems/Books-Chapters/#2-Post-Free-Content-Part-I.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "#2-Post-Free-Content-Part-I"
-                }
-              },
-              {
-                "id": "f056314e9eaef9b3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MicroHard-CAI-MGI"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file",
+              "title": "MicroHard-CAI-MGI"
+            }
           },
           {
-            "id": "d74273517ed1ace4",
-            "type": "tabs",
-            "dimension": 57.231404958677686,
-            "children": [
-              {
-                "id": "4b73fa2cc7d0523a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Courses/100M$ Leads Systems/Books-Chapters/#4-Run-Paid-Ads-Part-II.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "#4-Run-Paid-Ads-Part-II"
-                }
+            "id": "3cf11176aa40be16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/01-intelligence/README.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "8f56855436334fc7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "06 - Daily/20260403.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "20260403"
-                }
-              },
-              {
-                "id": "1ac1c61a82d9270b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Courses/100M$ Leads/02-Core-Four-screenshots.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "02-Core-Four-screenshots"
-                }
-              },
-              {
-                "id": "c6623171d16ac314",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "SLM-Ecosystem-Map"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "efc93ffd54af3d53",
-        "type": "tabs",
-        "dimension": 54.74820143884892,
-        "children": [
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
           {
-            "id": "1e11d80a7df19479",
+            "id": "1ac1c61a82d9270b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,43 +51,123 @@
             }
           },
           {
-            "id": "c16071d87f11b6c6",
+            "id": "c6623171d16ac314",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map.md",
+                "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA-LeadGen-Ecosystem-Map"
+              "title": "SLM-Ecosystem-Map"
             }
           },
           {
-            "id": "95e0ffb0a27779c2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05-Client-OS/RA-Project/Ressources/Rolland_Assurances_Strategy_Report.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Rolland_Assurances_Strategy_Report"
-            }
-          },
-          {
-            "id": "9cf0846729bdcc30",
+            "id": "9d16866acb22c82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md",
+                "file": "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA-LeadGen-Ecosystem-Map-v2-hardened"
+              "title": "RA-Workspace-Architecture-Blueprint"
+            }
+          },
+          {
+            "id": "01bd543bb37e3eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20260414.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260414"
+            }
+          },
+          {
+            "id": "5b192a69a177e1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMPETITIVE-GAP-REPORT-senior"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "efc93ffd54af3d53",
+        "type": "tabs",
+        "dimension": 51.981076286221175,
+        "children": [
+          {
+            "id": "d42b16bdb3f7438a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/knowledge/competitor-dataset-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "competitor-dataset-2026"
+            }
+          },
+          {
+            "id": "be305fb2a7ba1010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RA-LeadGen-Ecosystem-Map-v2"
+            }
+          },
+          {
+            "id": "41afc3fa2dbfa338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RA-LeadGen-Ecosystem-Map-v2"
+            }
+          },
+          {
+            "id": "13127ded26b0fdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/Google-ADS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Google-ADS"
             }
           }
         ],
@@ -286,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.51103591918945
+    "width": 323.51103591918945
   },
   "right": {
     "id": "f68dabac2eb89b19",
@@ -431,44 +403,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cf0846729bdcc30",
+  "active": "5b192a69a177e1c2",
   "lastOpenFiles": [
-    "05-Client-OS/RA-Project/output/knowledge/cross-domain-syntheses/lead-gen-urgency-triage-synthesis.md",
-    "05-Client-OS/RA-Project/output/knowledge/cross-domain-syntheses/lead-gen-urgency-triage-synthesis.md.tmp.313052.1776003102518",
-    "05-Client-OS/RA-Project/logs/mgi-system-auditor.log",
-    "05-Client-OS/RA-Project/output/knowledge/audits/ra-leadgen-ecosystem-v2-optimization.md",
-    "05-Client-OS/RA-Project/output/knowledge/audits/ra-leadgen-ecosystem-v2-optimization.md.tmp.313564.1776003071882",
-    "05-Client-OS/RA-Project/output/knowledge/cross-domain-syntheses",
-    "05-Client-OS/RA-Project/output/knowledge/audits",
-    "05-Client-OS/RA-Project/logs/mgi-first-principles-deconstructor.log",
-    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints/RA-LeadGen-client-acquisition-blueprint.md",
-    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints/RA-LeadGen-client-acquisition-blueprint.md.tmp.255403.1776001380219",
-    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/zen-senior.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/sante-des-seniors.md",
+    "05-Client-OS/RA-Project/Notes/Search-Keywords.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/Google-ADS.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md.tmp.13236.1776146122543",
+    "05-Client-OS/RA-Project/output/knowledge/protocols/market-intelligence-triad-protocol.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/sante-des-seniors.md.tmp.13236.1776146065239",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-dataset-2026.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/_TEMPLATE.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/_TEMPLATE.md.tmp.13236.1776145326012",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/zen-senior.md.tmp.13236.1776145319893",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/decennale",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel",
+    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/config/google-ads.yaml",
+    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/google/ads/googleads/v23/services/types/__pycache__/youtube_video_upload_service.cpython-314.pyc",
+    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/google/ads/googleads/v23/services/types/__pycache__/user_list_service.cpython-314.pyc",
+    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
+    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
+    "05-Client-OS/RA-Project/output/knowledge/protocols/automated-intelligence-harvest.md",
     "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
-    "05-Client-OS/RA-Project/logs/mgi-adversarial-designer.log",
-    "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md",
-    "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md.tmp.255403.1775999636257",
-    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
-    "02-Courses/100M$ Leads Systems/Books-Chapters/#2-Post-Free-Content-Part-I.md",
-    "06 - Daily/20260330.md",
     "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
-    "06 - Daily/20260403.md",
-    "06 - Daily/20260408.md",
-    "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/client_libs/google-ads-python/CONTRIBUTING.md",
-    "05-Client-OS/RA-Project/Ressources/CLICK-TO-CALL-GoogleAds-RollandAssurances.md",
+    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints/RA-LeadGen-client-acquisition-blueprint.md",
+    "06 - Daily/20260414.md",
+    "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
+    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
+    "01 - Projects/MH-Ideas/docs/workflow-map.md",
+    "01 - Projects/MH-Ideas/docs/skill-index.md",
+    "01 - Projects/MH-Ideas/docs/getting-started.md",
+    "01 - Projects/MH-Ideas/README.md",
+    "05-Client-OS/RA-Project/01-intelligence/SS2-performance/directives/README.md",
+    "05-Client-OS/RA-Project/01-intelligence/SS1-market/competitors/competitor_asset_library_2026_04_13.md",
+    "05-Client-OS/RA-Project/01-intelligence/README.md",
     "05-Client-OS/RA-Project/Notes/Notes.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/conversions/GEMINI.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/SERVICE_ACCOUNT.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/README_BEFORE_INSTALLATION.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/README.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/GEMINI.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/FAQ.md",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/CONTRIBUTING.md",
-    "08-CTS/01-Projects/MGI/inbox.md",
-    "00-Maps_of_Content/Notes.md",
-    "04-NIT/Placeholder.md",
-    "05-Client-OS/RA-Project/docs/workflow-map.md",
     "99 - Meta/attachments/Pasted image 20260403165048.png",
     "99 - Meta/attachments/Pasted image 20260403164613.png",
     "99 - Meta/attachments/Pasted image 20260403163506.png",

@@ -611,16 +611,16 @@ GATE 4 — Profitability Gate
 
 ## OPEN QUESTIONS (Must Resolve Before Execution)
 
-| # | Question | Blocks |
-|---|----------|--------|
-| 1 | What data exists from previous campaigns? (CTR, impressions, CPL, call count, call duration) | Full diagnostic |
-| 2 | Is the Google Ads account created? Is financial services verification done? | Zone C entirely |
-| 3 | Which tech checklist items (A3–A10) are actually complete? | Campaign launch |
-| 4 | What is Rolland's real phone number? (script uses +33100000000) | API deployment |
-| 5 | What are both landing pages' current conversion rates? | Layer 2 diagnosis |
-| 6 | What is Rolland's current close rate on incoming calls? | Financial model |
-| 7 | Are there ORIAS numbers on both landing pages already? | Legal compliance |
-| 8 | Is there an existing Google Business Profile? | Zone A / Local ads |
+| #   | Question                                                                                     | Blocks             |
+| --- | -------------------------------------------------------------------------------------------- | ------------------ |
+| 1   | What data exists from previous campaigns? (CTR, impressions, CPL, call count, call duration) | Full diagnostic    |
+| 2   | Is the Google Ads account created? Is financial services verification done?                  | Zone C entirely    |
+| 3   | Which tech checklist items (A3–A10) are actually complete?                                   | Campaign launch    |
+| 4   | What is Rolland's real phone number? (script uses +33100000000)                              | API deployment     |
+| 5   | What are both landing pages' current conversion rates?                                       | Layer 2 diagnosis  |
+| 6   | What is Rolland's current close rate on incoming calls?                                      | Financial model    |
+| 7   | Are there ORIAS numbers on both landing pages already?                                       | Legal compliance   |
+| 8   | Is there an existing Google Business Profile?                                                | Zone A / Local ads |
 
 ---
 

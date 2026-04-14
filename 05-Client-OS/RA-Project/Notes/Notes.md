@@ -4,3 +4,4 @@
 - list down all the tasks and work you have to work on everything, like all tasks and ideas.
 - study and analyze rolland, apply slm and cai and build the full ecosystem and analyze all existing data and a lot of other things.
 - You need to extract all the systems of SLM and RMBC and CAI and compare them to each other study them and analyze them to create the final full combined ecosystem.
+- Work also on the GEO of the website.

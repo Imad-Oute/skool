@@ -1,0 +1,30 @@
+installation:
+  version: 2.0.2
+  installDate: 2026-04-13T19:20:51.351Z
+  lastUpdated: 2026-04-13T19:20:51.351Z
+modules:
+  - name: cai-skills
+    version: 2.0.2
+    installDate: 2026-04-13T19:20:51.351Z
+    lastUpdated: 2026-04-13T19:20:51.351Z
+    source: built-in
+    npmPackage: microhard
+    repoUrl: null
+  - name: core-skills
+    version: 2.0.2
+    installDate: 2026-04-13T19:20:51.351Z
+    lastUpdated: 2026-04-13T19:20:51.351Z
+    source: built-in
+    npmPackage: microhard
+    repoUrl: null
+  - name: mgi-skills
+    version: 2.0.2
+    installDate: 2026-04-13T19:20:51.351Z
+    lastUpdated: 2026-04-13T19:20:51.351Z
+    source: built-in
+    npmPackage: microhard
+    repoUrl: null
+ides:
+  - Claude Code
+  - Gemini CLI
+  - Copilot

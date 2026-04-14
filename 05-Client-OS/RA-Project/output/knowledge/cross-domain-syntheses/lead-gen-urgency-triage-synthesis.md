@@ -34,12 +34,12 @@ Chief complaint → Primary survey (90s, standardized) → Triage classification
 
 ### Triage Categories
 
-| Tier | Label | Condition | Resource Allocation |
-|---|---|---|---|
-| Red | Immediate | Life-threatening; window measured in minutes | Trauma bay, attending physician, full team, max resources |
-| Yellow | Delayed | Serious but stable; window measured in hours | Medical ward, monitored queue, appropriate protocol |
-| Green | Minimal | Self-limiting; no acute intervention needed | Self-care instructions or scheduled appointment |
-| Black | Expectant | Unsurvivable without extreme resource consumption | Comfort care only; do not divert from Red/Yellow |
+| Tier   | Label     | Condition                                         | Resource Allocation                                       |
+| ------ | --------- | ------------------------------------------------- | --------------------------------------------------------- |
+| Red    | Immediate | Life-threatening; window measured in minutes      | Trauma bay, attending physician, full team, max resources |
+| Yellow | Delayed   | Serious but stable; window measured in hours      | Medical ward, monitored queue, appropriate protocol       |
+| Green  | Minimal   | Self-limiting; no acute intervention needed       | Self-care instructions or scheduled appointment           |
+| Black  | Expectant | Unsurvivable without extreme resource consumption | Comfort care only; do not divert from Red/Yellow          |
 
 ---
 

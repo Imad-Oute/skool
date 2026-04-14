@@ -20,30 +20,30 @@ The invariant: **trust must exceed the action threshold before contact happens.*
 
 ## The 6 Irreducible Axioms
 
-| # | Axiom | Type |
-|---|-------|------|
-| 1 | Rolland earns revenue only when a qualified conversation happens that he can close | Logical Necessity |
-| 2 | A prospect acts only when perceived benefit > perceived risk | Behavioral Law |
-| 3 | Perceived benefit/risk are functions of information transferred before the action | Cognitive Law |
-| 4 | Rolland can only reach prospects where they actually are | Physical Law |
-| 5 | CAC must be less than LTV for the business to survive | Mathematical Identity |
-| 6 | Two real, externally-validated problems exist (Châtel/Senior, ORIAS/BTP) | Legal/Empirical Fact |
+| #   | Axiom                                                                              | Type                  |
+| --- | ---------------------------------------------------------------------------------- | --------------------- |
+| 1   | Rolland earns revenue only when a qualified conversation happens that he can close | Logical Necessity     |
+| 2   | A prospect acts only when perceived benefit > perceived risk                       | Behavioral Law        |
+| 3   | Perceived benefit/risk are functions of information transferred before the action  | Cognitive Law         |
+| 4   | Rolland can only reach prospects where they actually are                           | Physical Law          |
+| 5   | CAC must be less than LTV for the business to survive                              | Mathematical Identity |
+| 6   | Two real, externally-validated problems exist (Châtel/Senior, ORIAS/BTP)           | Legal/Empirical Fact  |
 
 ## Assumptions Eliminated and Why
 
-| Eliminated Assumption | Why It Was Not an Axiom |
-|----------------------|------------------------|
-| Google Ads is required | One channel among many; Seniors are on YouTube, Artisans in accountant networks. Axiom 4 replaces it. |
-| Phone call as first contact | Convention. Cold inbound call has maximum perceived risk. First contact can be any low-barrier action. |
-| Call-only ad format | Eliminates remarketing audiences, removes diagnostic data, assumes maximum trust at zero trust state |
-| Landing page as sole conversion point | One mechanism; WhatsApp, form, referral are equally valid trust-building surfaces |
-| SLM/CAI as operating axioms | Frameworks implement axioms — they don't replace them. Good frameworks, wrong classification. |
-| ≥60s call duration = qualified | Proxy metric contaminated by price-shoppers and wrong numbers. Axiom 1 provides the real definition. |
-| 50/50 budget split | Symmetry has no axiomatic basis. Axiom 5 requires economics to work per segment, not equally. |
+| Eliminated Assumption                 | Why It Was Not an Axiom                                                                                |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Google Ads is required                | One channel among many; Seniors are on YouTube, Artisans in accountant networks. Axiom 4 replaces it.  |
+| Phone call as first contact           | Convention. Cold inbound call has maximum perceived risk. First contact can be any low-barrier action. |
+| Call-only ad format                   | Eliminates remarketing audiences, removes diagnostic data, assumes maximum trust at zero trust state   |
+| Landing page as sole conversion point | One mechanism; WhatsApp, form, referral are equally valid trust-building surfaces                      |
+| SLM/CAI as operating axioms           | Frameworks implement axioms — they don't replace them. Good frameworks, wrong classification.          |
+| ≥60s call duration = qualified        | Proxy metric contaminated by price-shoppers and wrong numbers. Axiom 1 provides the real definition.   |
+| 50/50 budget split                    | Symmetry has no axiomatic basis. Axiom 5 requires economics to work per segment, not equally.          |
 
 ---
 
-## Solution
+## Solution         
 
 The axiom-derived solution has two tracks:
 
@@ -219,12 +219,12 @@ partnerships per segment generate pre-qualified, pre-trusted leads at near-zero 
 
 ## Residual Assumptions (Acknowledged, Not Resolved)
 
-| Assumption | Status | How to Test |
-|-----------|--------|------------|
-| WhatsApp form rate > inbound call rate from same landing page | Unvalidated | A/B test during micro-sprint |
-| Accountants will refer clients without a financial incentive | Unvalidated | 3 conversations in Month 2 will confirm or deny |
-| Rolland's team can maintain 10-min response SLA | Unvalidated | Must be confirmed before Phase 1 launch |
-| Warm call close rate > cold call close rate | Directionally true per behavioral economics but unvalidated for this specific market | Compare Phase 1 data vs historical call close rate |
+| Assumption                                                    | Status                                                                               | How to Test                                        |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| WhatsApp form rate > inbound call rate from same landing page | Unvalidated                                                                          | A/B test during micro-sprint                       |
+| Accountants will refer clients without a financial incentive  | Unvalidated                                                                          | 3 conversations in Month 2 will confirm or deny    |
+| Rolland's team can maintain 10-min response SLA               | Unvalidated                                                                          | Must be confirmed before Phase 1 launch            |
+| Warm call close rate > cold call close rate                   | Directionally true per behavioral economics but unvalidated for this specific market | Compare Phase 1 data vs historical call close rate |
 
 ---
 
