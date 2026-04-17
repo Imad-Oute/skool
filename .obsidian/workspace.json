@@ -4,170 +4,187 @@
     "type": "split",
     "children": [
       {
-        "id": "d74273517ed1ace4",
-        "type": "tabs",
-        "dimension": 48.018923713778825,
+        "id": "44069f1f142797f8",
+        "type": "split",
+        "dimension": 47.397260273972606,
         "children": [
           {
-            "id": "8f56855436334fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
-                "mode": "source",
-                "source": false
+            "id": "d74273517ed1ace4",
+            "type": "tabs",
+            "dimension": 70.35123966942149,
+            "children": [
+              {
+                "id": "8f56855436334fc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MicroHard-CAI-MGI"
+                }
               },
-              "icon": "lucide-file",
-              "title": "MicroHard-CAI-MGI"
-            }
+              {
+                "id": "1ac1c61a82d9270b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04-Full-to-do-list/Task list.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Task list"
+                }
+              },
+              {
+                "id": "c6623171d16ac314",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SLM-Ecosystem-Map"
+                }
+              },
+              {
+                "id": "9d16866acb22c82b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "RA-Workspace-Architecture-Blueprint"
+                }
+              },
+              {
+                "id": "01bd543bb37e3eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06 - Daily/20260414.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20260414"
+                }
+              },
+              {
+                "id": "5b192a69a177e1c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "COMPETITIVE-GAP-REPORT-senior"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "3cf11176aa40be16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/01-intelligence/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1ac1c61a82d9270b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RA-LeadGen-Ecosystem-Map-v2"
-            }
-          },
-          {
-            "id": "c6623171d16ac314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SLM-Ecosystem-Map"
-            }
-          },
-          {
-            "id": "9d16866acb22c82b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RA-Workspace-Architecture-Blueprint"
-            }
-          },
-          {
-            "id": "01bd543bb37e3eb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/20260414.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260414"
-            }
-          },
-          {
-            "id": "5b192a69a177e1c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMPETITIVE-GAP-REPORT-senior"
-            }
+            "id": "26acbf5241eee124",
+            "type": "tabs",
+            "dimension": 29.64876033057851,
+            "children": [
+              {
+                "id": "3cf11176aa40be16",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "09-MyLibrary/My Books list to read.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "My Books list to read"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 6
+        "direction": "horizontal"
       },
       {
         "id": "efc93ffd54af3d53",
         "type": "tabs",
-        "dimension": 51.981076286221175,
+        "dimension": 52.602739726027394,
         "children": [
-          {
-            "id": "d42b16bdb3f7438a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/output/knowledge/competitor-dataset-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "competitor-dataset-2026"
-            }
-          },
-          {
-            "id": "be305fb2a7ba1010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RA-LeadGen-Ecosystem-Map-v2"
-            }
-          },
-          {
-            "id": "41afc3fa2dbfa338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RA-LeadGen-Ecosystem-Map-v2"
-            }
-          },
           {
             "id": "13127ded26b0fdaa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/Google-ADS.md",
+                "file": "04-Full-to-do-list/Task list.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Task list"
+            }
+          },
+          {
+            "id": "e7897313d7d1d888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google-ADS"
+              "title": "agency-master-blueprint-optimization"
+            }
+          },
+          {
+            "id": "b3be3eb684b567d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Maps_of_Content/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "e3403a1af7ce6d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/CEO-Work/output/plans/plane-architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plane-architecture"
             }
           }
         ],
@@ -230,8 +247,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -250,15 +267,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 230.51103591918945
   },
   "right": {
     "id": "f68dabac2eb89b19",
@@ -361,8 +378,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -371,8 +388,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -392,55 +409,47 @@
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "templates:Insert template": true
     }
   },
-  "active": "5b192a69a177e1c2",
+  "active": "e3403a1af7ce6d08",
   "lastOpenFiles": [
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/zen-senior.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/sante-des-seniors.md",
-    "05-Client-OS/RA-Project/Notes/Search-Keywords.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/Google-ADS.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md.tmp.13236.1776146122543",
-    "05-Client-OS/RA-Project/output/knowledge/protocols/market-intelligence-triad-protocol.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/sante-des-seniors.md.tmp.13236.1776146065239",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-dataset-2026.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/_TEMPLATE.md",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/_TEMPLATE.md.tmp.13236.1776145326012",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/zen-senior.md.tmp.13236.1776145319893",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/decennale",
-    "05-Client-OS/RA-Project/output/knowledge/competitor-intel",
-    "05-Client-OS/RA-Project/google-ads-api-developer-assistant/config/google-ads.yaml",
-    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/google/ads/googleads/v23/services/types/__pycache__/youtube_video_upload_service.cpython-314.pyc",
-    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/google/ads/googleads/v23/services/types/__pycache__/user_list_service.cpython-314.pyc",
-    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
-    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "05-Client-OS/RA-Project/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
-    "05-Client-OS/RA-Project/output/knowledge/protocols/automated-intelligence-harvest.md",
+    "00-Maps_of_Content/Notes.md",
+    "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md",
+    "04-Full-to-do-list/Task list.md",
+    "01 - Projects/CEO-Work/output/plans/plane-architecture.md",
+    "01 - Projects/CEO-Work/output/plans/agency-master-blueprint.md",
+    "01 - Projects/CEO-Work/output/plans/plane-architecture.md.tmp.453113.1776370070328",
+    "01 - Projects/CEO-Work/output/plans/agency-architecture.md",
+    "05-Client-OS/RA-Project/output/plans/n8n-building-blueprint-local.md",
+    "05-Client-OS/RA-Project/output/plans/rollandassurance-lead-gen-architecture.md",
+    "01 - Projects/CEO-Work/logs/mgi-system-auditor.log",
+    "05-Client-OS/RA-Project/output/plans/credentials-preparation-guide.md",
+    "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md.tmp.453113.1776369636801",
+    "01 - Projects/CEO-Work/output/knowledge/audits",
+    "01 - Projects/CEO-Work/output/plans/full-local-ecosystem.md",
+    "01 - Projects/CEO-Work/output/plans/agency-master-blueprint.md.tmp.453113.1776365722986",
+    "01 - Projects/CEO-Work/output/plans/full-local-ecosystem.md.tmp.453113.1776365099006",
+    "01 - Projects/CEO-Work/output/plans/agency-tools-ecosystem.md",
+    "00-Maps_of_Content/The 6 business Dashboards.md",
+    "01 - Projects/CEO-Work/output/plans/agency-tools-ecosystem.md.tmp.453113.1776358285510",
+    "01 - Projects/CEO-Work/output/plans/agency-architecture.md.tmp.453113.1776357885804",
+    "01 - Projects/CEO-Work/output/brainstorming/brainstorming-session-2026-04-16-0000.md",
+    "01 - Projects/CEO-Work/output/brainstorming/brainstorming-session-2026-04-16-0000.md.tmp.453113.1776353934886",
+    "01 - Projects/CEO-Work/output/brainstorming/brainstorming-session-2026-04-16-0000.md.tmp.453113.1776353930582",
+    "04-Full-to-do-list/my-to-do-list.md",
     "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
-    "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
-    "05-Client-OS/RA-Project/output/knowledge/first-principles-blueprints/RA-LeadGen-client-acquisition-blueprint.md",
-    "06 - Daily/20260414.md",
-    "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
-    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
-    "01 - Projects/MH-Ideas/docs/workflow-map.md",
-    "01 - Projects/MH-Ideas/docs/skill-index.md",
-    "01 - Projects/MH-Ideas/docs/getting-started.md",
-    "01 - Projects/MH-Ideas/README.md",
-    "05-Client-OS/RA-Project/01-intelligence/SS2-performance/directives/README.md",
-    "05-Client-OS/RA-Project/01-intelligence/SS1-market/competitors/competitor_asset_library_2026_04_13.md",
+    "09-MyLibrary/My Books list to read.md",
+    "01 - Projects/CEO-Work/docs/workflow-map.md",
+    "01 - Projects/CEO-Work/docs/skill-index.md",
+    "01 - Projects/CEO-Work/docs/getting-started.md",
+    "01 - Projects/CEO-Work/README.md",
     "05-Client-OS/RA-Project/01-intelligence/README.md",
-    "05-Client-OS/RA-Project/Notes/Notes.md",
+    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
+    "05-Client-OS/Automation/output/plans/algi-workflow-map.md",
+    "05-Client-OS/Automation/output/plans/algi-infrastructure-setup.md",
+    "05-Client-OS/Automation/output/plans/rollandassurance-lead-gen-architecture.md",
+    "05-Client-OS/Automation/output/plans/n8n-building-blueprint-local.md",
     "99 - Meta/attachments/Pasted image 20260403165048.png",
     "99 - Meta/attachments/Pasted image 20260403164613.png",
     "99 - Meta/attachments/Pasted image 20260403163506.png",

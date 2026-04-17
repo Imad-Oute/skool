@@ -1,0 +1,14 @@
+- [ ] SEO/GEO maximization for both projects + Projects clean up.
+- [ ] work on your full team ecosytem for project management and organization and leadershiping.
+- [ ] BLog posting for both website for seo omptimization.
+- [ ] google ads course
+- [ ] Work on content creation for both project leslions and rollandassurances. use BrightBean or other better alternative opensource project.
+- [ ] learn basics of devos to deploy your project and tools and infra on a server.
+- [ ] update and enrich and improve both llms.txt and robot.txt files for leslions and rollandassurances
+- Setup Jira and proejct management for you both to start doing some fucking work shit, so manage this.
+- I think what i'm missing right now is that  i need to becam a CEO, elite leader, that's why my team production is trash and were not moving and moving super slow, and we are missing leadership and management and vision and roadmap plan and everything, study the elites and how they do this, now it's not only about operating at an elite level now, it's your whole agency need to operate at that level.  
+- basically me myself and my agency and everywhere and in everyaspect, there's no ecosytem, i don't a system, always and most of the time i found my self not fucking productive weeks have gone without any productive work and move forward at all, i found the day pass and i have not done shit yet. and it loop again and again and now it's three month and we have not even complete the work on our first client project and even get him the results we promise him to. so it's fucking falling from my hand, and me and my friend both are now hustling working on buildling our agency, our goal is to get to 100k$/month as fast as possible currently we are only around less than a 1k $ a month and we are fucking not productive at all. that's first thing. i'm ceo and leader of all this and i must be on an elite level. there's a huge list of a lot of aspects and aread that i know and i don't know of problems and systems and ecosystem need to be create and setuped. including project management and client management and delivery and i'm everything you may thinked of, we are defineltly missing around and doing terrible work shit, have not achieve a shit yet. nothing at all.
+  and now i think the solution is to create all the ecosystem and systems and framework and setup and configure all the ecosystem and tools and everything to operate at an elite level startup/agency who's doing millions/years.
+
+
+- create a daily and weekly and monthly report of what we have done, and what was the goal, and you need to have this on a daily basis.

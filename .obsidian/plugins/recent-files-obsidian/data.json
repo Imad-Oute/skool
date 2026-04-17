@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes",
+      "path": "00-Maps_of_Content/Notes.md"
+    },
+    {
+      "basename": "credentials-preparation-guide",
+      "path": "05-Client-OS/RA-Project/output/plans/credentials-preparation-guide.md"
+    },
+    {
+      "basename": "n8n-building-blueprint-local",
+      "path": "05-Client-OS/RA-Project/output/plans/n8n-building-blueprint-local.md"
+    },
+    {
+      "basename": "rollandassurance-lead-gen-architecture",
+      "path": "05-Client-OS/RA-Project/output/plans/rollandassurance-lead-gen-architecture.md"
+    },
+    {
+      "basename": "Task list",
+      "path": "04-Full-to-do-list/Task list.md"
+    },
+    {
+      "basename": "MicroHard-CAI-MGI",
+      "path": "00-Maps_of_Content/MicroHard-CAI-MGI.md"
+    },
+    {
+      "basename": "n8n-building-blueprint",
+      "path": "05-Client-OS/RA-Project/output/plans/n8n-building-blueprint.md"
+    },
+    {
+      "basename": "20260415",
+      "path": "06 - Daily/20260415.md"
+    },
+    {
+      "basename": "RA-LeadGen-Ecosystem-Map-v2",
+      "path": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md"
+    },
+    {
+      "basename": "competitor-dataset-2026",
+      "path": "05-Client-OS/RA-Project/output/knowledge/competitor-dataset-2026.md"
+    },
+    {
+      "basename": "Google-ADS",
+      "path": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/Google-ADS.md"
+    },
+    {
       "basename": "COMPETITIVE-GAP-REPORT-senior",
       "path": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md"
     },
@@ -17,24 +61,12 @@
       "path": "05-Client-OS/RA-Project/Notes/Search-Keywords.md"
     },
     {
-      "basename": "Google-ADS",
-      "path": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/Google-ADS.md"
-    },
-    {
       "basename": "market-intelligence-triad-protocol",
       "path": "05-Client-OS/RA-Project/output/knowledge/protocols/market-intelligence-triad-protocol.md"
     },
     {
-      "basename": "competitor-dataset-2026",
-      "path": "05-Client-OS/RA-Project/output/knowledge/competitor-dataset-2026.md"
-    },
-    {
       "basename": "automated-intelligence-harvest",
       "path": "05-Client-OS/RA-Project/output/knowledge/protocols/automated-intelligence-harvest.md"
-    },
-    {
-      "basename": "RA-LeadGen-Ecosystem-Map-v2",
-      "path": "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md"
     },
     {
       "basename": "SLM-Ecosystem-Map",
@@ -51,10 +83,6 @@
     {
       "basename": "RA-Workspace-Architecture-Blueprint",
       "path": "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md"
-    },
-    {
-      "basename": "MicroHard-CAI-MGI",
-      "path": "00-Maps_of_Content/MicroHard-CAI-MGI.md"
     },
     {
       "basename": "README",
@@ -137,10 +165,6 @@
       "path": "08-CTS/01-Projects/MGI/inbox.md"
     },
     {
-      "basename": "Notes",
-      "path": "00-Maps_of_Content/Notes.md"
-    },
-    {
       "basename": "20260412",
       "path": "06 - Daily/20260412.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "#2 Post Free Content Part II",
       "path": "02-Courses/100M$ Leads Systems/Books-Chapters/#2 Post Free Content Part II.md"
-    },
-    {
-      "basename": "#4-Run-Paid-Ads-Part-I",
-      "path": "02-Courses/100M$ Leads Systems/Books-Chapters/#4-Run-Paid-Ads-Part-I.md"
-    },
-    {
-      "basename": "20260402",
-      "path": "06 - Daily/20260402.md"
-    },
-    {
-      "basename": "20260405",
-      "path": "06 - Daily/20260405.md"
-    },
-    {
-      "basename": "#4-Run-Paid-Ads-Part-II",
-      "path": "02-Courses/100M$ Leads Systems/Books-Chapters/#4-Run-Paid-Ads-Part-II.md"
-    },
-    {
-      "basename": "02-Core-Four",
-      "path": "02-Courses/100M$ Leads/02-Core-Four.md"
-    },
-    {
-      "basename": "Business-Notes-Ideas",
-      "path": "01 - Projects/Business-Notes-Ideas.md"
     }
   ],
   "omittedPaths": [],
