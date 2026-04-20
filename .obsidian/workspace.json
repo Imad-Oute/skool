@@ -79,6 +79,20 @@
               "icon": "lucide-file",
               "title": "seo-geo-llm-ecosystem-architecture"
             }
+          },
+          {
+            "id": "a85785e84e3b9c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MicroHard-CAI-MGI"
+            }
           }
         ],
         "currentTab": 4
@@ -175,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -341,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md",
+                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of seo-geo-llm-performance-monitoring"
+              "title": "Outline of seo-geo-llm-ecosystem-architecture"
             }
           },
           {
@@ -399,9 +413,10 @@
       "templates:Insert template": true
     }
   },
-  "active": "79bfc029479010ce",
+  "active": "bb66b1dc070f8168",
   "lastOpenFiles": [
     "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-install-guide.md",
+    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
     "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md",
     "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md.tmp.445094.1776706265348",
     "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-architecture.md",
@@ -420,7 +435,6 @@
     "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
     "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
     "04-Full-to-do-list/Task list.md",
-    "00-Maps_of_Content/MicroHard-CAI-MGI.md",
     "05-Client-OS/RA-Project/output/plans/google-ads-full-ecosystem-architecture.md.tmp.445094.1776693498617",
     "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-4-bible-run-paid-ads-part-i.md",
     "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-4-run-paid-ads-part-ii.md",

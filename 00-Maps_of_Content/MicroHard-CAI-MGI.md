@@ -1,7 +1,7 @@
 - in MH project you should have a folder for notes, that’s created when installing microhard.
 - update all core skills brand name from cai to microhard
 - create modules
-	- a module for project management, to take and create and lead your team for building and delivering a project. “jira api mcp server“
+	- a module for project management, to take and create and lead your team for building and delivering a project. "Plane" + “jira api mcp server“ 
 - brainstorm about all modules you need and can create in your whole full life cycle that you will need as an entrepreneur, leader, ai software engineer, ceo, cto and everything you will need to operate at an elite level operator and like an elite company doing billions per year.
 - advanced party mode workflow, in which the user get the full list of agents and their job and how to can help, and then he choose who to bring to this party.
 - have just modules big like CTO CEO CFO CMO, and then in each module you have all workflows but you have categories “sub-modules“ like architect, engineer, developer, devops, tester, hacker, so basically the idea is to have workflow categorized in their names, naming strategy, for example something like arch-create-architecture or eng-engineer-backend.... and this way i think i will have a huge list of modules, agent, sub-modules, workflows, automation, and library assests in multiple different domains at an elite level.
