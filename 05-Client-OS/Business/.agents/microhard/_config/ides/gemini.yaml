@@ -1,0 +1,6 @@
+ide: gemini
+configured_date: 2026-04-18T12:18:58.176Z
+last_updated: 2026-04-18T12:18:58.176Z
+configuration:
+  skills_dir: .gemini/skills
+  skills_count: 24

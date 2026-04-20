@@ -4,130 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "44069f1f142797f8",
-        "type": "split",
-        "dimension": 47.397260273972606,
+        "id": "d74273517ed1ace4",
+        "type": "tabs",
+        "dimension": 50.543084721216516,
         "children": [
           {
-            "id": "d74273517ed1ace4",
-            "type": "tabs",
-            "dimension": 70.35123966942149,
-            "children": [
-              {
-                "id": "8f56855436334fc7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00-Maps_of_Content/MicroHard-CAI-MGI.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MicroHard-CAI-MGI"
-                }
+            "id": "c6623171d16ac314",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "1ac1c61a82d9270b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "04-Full-to-do-list/Task list.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Task list"
-                }
-              },
-              {
-                "id": "c6623171d16ac314",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "SLM-Ecosystem-Map"
-                }
-              },
-              {
-                "id": "9d16866acb22c82b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "RA-Workspace-Architecture-Blueprint"
-                }
-              },
-              {
-                "id": "01bd543bb37e3eb2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "06 - Daily/20260414.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "20260414"
-                }
-              },
-              {
-                "id": "5b192a69a177e1c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "COMPETITIVE-GAP-REPORT-senior"
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SLM-Ecosystem-Map"
+            }
           },
           {
-            "id": "26acbf5241eee124",
-            "type": "tabs",
-            "dimension": 29.64876033057851,
-            "children": [
-              {
-                "id": "3cf11176aa40be16",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "09-MyLibrary/My Books list to read.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "My Books list to read"
-                }
-              }
-            ]
+            "id": "bb4bcc32590a2164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/google-ads-full-ecosystem-architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "google-ads-full-ecosystem-architecture"
+            }
+          },
+          {
+            "id": "c3d2c44693a423eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/00-foundation/credentials/ecosystem-tools-credentials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ecosystem-tools-credentials"
+            }
+          },
+          {
+            "id": "a80d268ceb659bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "seo-geo-llm-ecosystem-research"
+            }
+          },
+          {
+            "id": "bb66b1dc070f8168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "seo-geo-llm-ecosystem-architecture"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       },
       {
         "id": "efc93ffd54af3d53",
         "type": "tabs",
-        "dimension": 52.602739726027394,
+        "dimension": 49.45691527878349,
         "children": [
           {
             "id": "13127ded26b0fdaa",
@@ -151,12 +110,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md",
+                "file": "01 - Projects/CEO-Work/output/plans/agency-business-ecosystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agency-master-blueprint-optimization"
+              "title": "agency-business-ecosystem"
             }
           },
           {
@@ -165,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Maps_of_Content/Notes.md",
+                "file": "05-Client-OS/RA-Project/01-intelligence/SS1-market/competitors/competitor_asset_library_2026_04_13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "competitor_asset_library_2026_04_13"
             }
           },
           {
@@ -186,9 +145,37 @@
               "icon": "lucide-file",
               "title": "plane-architecture"
             }
+          },
+          {
+            "id": "5847b0b144fadbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-install-guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "seo-geo-llm-ecosystem-install-guide"
+            }
+          },
+          {
+            "id": "79bfc029479010ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "seo-geo-llm-performance-monitoring"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -275,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.51103591918945
+    "width": 308.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f68dabac2eb89b19",
@@ -353,13 +341,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Client-OS/RA-Project/output/knowledge/stress-tests/RA-LeadGen-Ecosystem-Map-v2-hardened.md",
+                "file": "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RA-LeadGen-Ecosystem-Map-v2-hardened"
+              "title": "Outline of seo-geo-llm-performance-monitoring"
             }
           },
           {
@@ -397,8 +385,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -412,44 +399,44 @@
       "templates:Insert template": true
     }
   },
-  "active": "e3403a1af7ce6d08",
+  "active": "79bfc029479010ce",
   "lastOpenFiles": [
-    "00-Maps_of_Content/Notes.md",
-    "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-install-guide.md",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-performance-monitoring.md.tmp.445094.1776706265348",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-architecture.md",
+    "05-Client-OS/RA-Project/output/plans/google-ads-ecosystem-install-guide.md",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-research.md",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-install-guide.md.tmp.445094.1776702310927",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-architecture.md.tmp.445094.1776701742267",
+    "05-Client-OS/RA-Project/00-foundation/credentials/ecosystem-tools-credentials.md",
+    "05-Client-OS/RA-Project/output/plans/seo-geo-llm-ecosystem-research.md.tmp.445094.1776701154609",
+    "05-Client-OS/RA-Project/output/plans/google-ads-full-ecosystem-architecture.md",
+    "05-Client-OS/RA-Project/01-intelligence/SS1-market/competitors/competitor_asset_library_2026_04_13.md",
+    "05-Client-OS/RA-Project/output/plans/google-ads-ecosystem-install-guide.md.tmp.445094.1776694384506",
+    "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-4-bible-run-paid-ads-part-ii.md",
+    "05-Client-OS/RA-Project/output/knowledge/competitor-intel/senior/COMPETITIVE-GAP-REPORT-senior.md",
+    "06 - Daily/20260414.md",
+    "05-Client-OS/RA-Project/output/plans/RA-Workspace-Architecture-Blueprint.md",
+    "05-Client-OS/RA-Project/Ressources/Straight-Line-Marketing/SLM-Ecosystem-Map.md",
     "04-Full-to-do-list/Task list.md",
-    "01 - Projects/CEO-Work/output/plans/plane-architecture.md",
-    "01 - Projects/CEO-Work/output/plans/agency-master-blueprint.md",
-    "01 - Projects/CEO-Work/output/plans/plane-architecture.md.tmp.453113.1776370070328",
-    "01 - Projects/CEO-Work/output/plans/agency-architecture.md",
-    "05-Client-OS/RA-Project/output/plans/n8n-building-blueprint-local.md",
-    "05-Client-OS/RA-Project/output/plans/rollandassurance-lead-gen-architecture.md",
-    "01 - Projects/CEO-Work/logs/mgi-system-auditor.log",
-    "05-Client-OS/RA-Project/output/plans/credentials-preparation-guide.md",
-    "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md.tmp.453113.1776369636801",
-    "01 - Projects/CEO-Work/output/knowledge/audits",
-    "01 - Projects/CEO-Work/output/plans/full-local-ecosystem.md",
-    "01 - Projects/CEO-Work/output/plans/agency-master-blueprint.md.tmp.453113.1776365722986",
-    "01 - Projects/CEO-Work/output/plans/full-local-ecosystem.md.tmp.453113.1776365099006",
-    "01 - Projects/CEO-Work/output/plans/agency-tools-ecosystem.md",
-    "00-Maps_of_Content/The 6 business Dashboards.md",
-    "01 - Projects/CEO-Work/output/plans/agency-tools-ecosystem.md.tmp.453113.1776358285510",
-    "01 - Projects/CEO-Work/output/plans/agency-architecture.md.tmp.453113.1776357885804",
-    "01 - Projects/CEO-Work/output/brainstorming/brainstorming-session-2026-04-16-0000.md",
-    "01 - Projects/CEO-Work/output/brainstorming/brainstorming-session-2026-04-16-0000.md.tmp.453113.1776353934886",
-    "01 - Projects/CEO-Work/output/brainstorming/brainstorming-session-2026-04-16-0000.md.tmp.453113.1776353930582",
-    "04-Full-to-do-list/my-to-do-list.md",
-    "05-Client-OS/RA-Project/output/plans/RA-LeadGen-Ecosystem-Map-v2.md",
-    "09-MyLibrary/My Books list to read.md",
-    "01 - Projects/CEO-Work/docs/workflow-map.md",
-    "01 - Projects/CEO-Work/docs/skill-index.md",
-    "01 - Projects/CEO-Work/docs/getting-started.md",
-    "01 - Projects/CEO-Work/README.md",
-    "05-Client-OS/RA-Project/01-intelligence/README.md",
     "00-Maps_of_Content/MicroHard-CAI-MGI.md",
-    "05-Client-OS/Automation/output/plans/algi-workflow-map.md",
-    "05-Client-OS/Automation/output/plans/algi-infrastructure-setup.md",
-    "05-Client-OS/Automation/output/plans/rollandassurance-lead-gen-architecture.md",
-    "05-Client-OS/Automation/output/plans/n8n-building-blueprint-local.md",
+    "05-Client-OS/RA-Project/output/plans/google-ads-full-ecosystem-architecture.md.tmp.445094.1776693498617",
+    "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-4-bible-run-paid-ads-part-i.md",
+    "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-4-run-paid-ads-part-ii.md",
+    "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-4-run-paid-ads-part-i.md",
+    "02-Courses/100M$ Leads Systems/design-artifacts/G-Product-Development/100m-leads-ecosystems/chapter-2-bible-post-free-content.md",
+    "00-Maps_of_Content/Notes.md",
+    "01 - Projects/CEO-Work/output/plans/agency-business-ecosystem.md",
+    "01 - Projects/CEO-Work/output/plans/local-setup-guide.md.tmp.15906.1776544030634",
+    "01 - Projects/CEO-Work/output/plans/local-setup-guide.md",
+    "01 - Projects/CEO-Work/output/plans/local-setup-guide.md.tmp.15906.1776543565122",
+    "01 - Projects/CEO-Work/output/knowledge/audits/agency-master-blueprint-optimization.md",
+    "01 - Projects/CEO-Work/output/plans/agency-business-ecosystem.md.tmp.15906.1776536570405",
+    "01 - Projects/CEO-Work/output/plans/agency-business-ecosystem.md.tmp.15906.1776532866889",
+    "05-Client-OS/Business/docs/workflow-map.md",
+    "05-Client-OS/Business/docs/skill-index.md",
+    "05-Client-OS/Business/docs/getting-started.md",
     "99 - Meta/attachments/Pasted image 20260403165048.png",
     "99 - Meta/attachments/Pasted image 20260403164613.png",
     "99 - Meta/attachments/Pasted image 20260403163506.png",
